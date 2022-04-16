@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(61, 61, 61);
+}
+div {
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  justify-content: center;
+}
+
+button {
+  padding: 10px 10px;
+  border: 3px solid rgb(30, 247, 30);
+  border-radius: 5px; 
+
+  background-color: transparent;
+  
+  color: rgb(30, 247, 30);
+}
+
+button:hover {
+}
