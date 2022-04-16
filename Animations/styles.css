@@ -1,10 +1,11 @@
-button{
-  background-color: red; 
+button {
   color: black;
-  transition: background-color .19s;
   transition: color .19s;
 
+  background-color: red; 
+  transition: background-color .19s;
 }
+
 button:hover { 
   color: white;
   background-color: rgb(132, 6, 235);
